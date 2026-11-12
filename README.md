@@ -83,4 +83,3 @@ Pengembangan keterampilan profesional dan komunikasi di bidang keamanan siber.
 * **Web Security, VAPT & Lab:** DVWA (Damn Vulnerable Web Application), Metasploitable2, TryHackMe
 * **SIEM & Log Monitoring:** Elastic Stack (ELK)
 * **Bahasa Pemrograman:** Python (Security Scripting & Automation)
-* 
