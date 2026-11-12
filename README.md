@@ -48,7 +48,17 @@ Identifikasi kerentanan aplikasi, analisis ancaman siber, *digital forensics*, d
 * **Tata Kelola & Akses:**
   * Laporan Manajemen Akses & Perancangan Kebijakan Keamanan (*CyberSafe*)
 
-### 4. `Cryptography, Incident Response, & Risk Management`
+### 4. `Vulnerabilities Assessment & Penetration Testing`
+Perencanaan pengujian penetrasi, pengumpulan informasi (*reconnaissance*), serta pelaporan kerentanan sistem target.
+* **Perencanaan & Tata Kelola Pengujian:**
+  * Dokumen *Rules of Engagement* (RoE) — Lab Penetration Testing
+* **Reconnaissance & Vulnerability Assessment:**
+  * Laporan *Recon* Lengkap — Target **Metasploitable2**
+  * Laporan *Vulnerability Assessment* (VA) — **Metasploitable2**
+* **Pelaporan Akhir VAPT:**
+  * Laporan Final *Vulnerability Assessment & Penetration Testing* (VAPT) — **Metasploitable2**
+
+### 5. `Cryptography, Incident Response, & Risk Management`
 Penanganan insiden siber terstruktur, forensik digital, manajemen risiko, dan keamanan fisik.
 * **Incident Response & Digital Forensics:**
   * *Incident Response Report*: Kasus *Web Defacement* (`IR-2026-001` & Fase 1)
@@ -61,7 +71,7 @@ Penanganan insiden siber terstruktur, forensik digital, manajemen risiko, dan ke
   * Laporan Review Sertifikasi **CompTIA Security+**
   * Artikel Mini: *Keamanan Masa Depan*
 
-### 5. `Softskill Cyber Security`
+### 6. `Softskill Cyber Security`
 Pengembangan keterampilan profesional dan komunikasi di bidang keamanan siber.
 * Ringkasan Pengantar Soft Skill
 
@@ -70,6 +80,7 @@ Pengembangan keterampilan profesional dan komunikasi di bidang keamanan siber.
 ## 🛠️ Tools & Teknologi yang Digunakan
 * **Sistem Operasi & Virtualisasi:** Linux VM, Windows CMD/Terminal
 * **Network & Packet Analysis:** Wireshark, Nmap
-* **Web Security & Lab:** DVWA (Damn Vulnerable Web Application), Metasploitable2, TryHackMe
+* **Web Security, VAPT & Lab:** DVWA (Damn Vulnerable Web Application), Metasploitable2, TryHackMe
 * **SIEM & Log Monitoring:** Elastic Stack (ELK)
 * **Bahasa Pemrograman:** Python (Security Scripting & Automation)
+* 
